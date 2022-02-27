@@ -1,0 +1,34 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.top{
+background-color: aquamarine;
+text-align: center;
+}
+
+.top ul{
+    display: inline-flex;
+    list-style: none;
+    color:#fff;
+}
+.top ul li{
+    width: 120px;
+    margin: 20px;
+    padding: 15px;
+}
+
+.sameer{
+    width: 100vh;
+    clip-path: circle();
+
+    
+}
+.about{
+    margin-left: 15px;
+    padding: 10px;
+    margin-right: 50px;
+}
